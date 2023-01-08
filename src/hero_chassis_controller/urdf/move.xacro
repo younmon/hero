@@ -1,0 +1,38 @@
+<robot name="mecanum_wheel" xmlns:xacro="http://wiki.ros.org/xacro">
+ 
+    
+    <xacro:macro name="joint_trans" params="joint_name">
+       
+        <transmission name="${joint_name}_trans">
+            <type>transmission_interface/SimpleTransmission</type>
+            <joint name="${joint_name}">
+                <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
+            </joint>
+            <actuator name="${joint_name}_motor">
+                <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
+                <mechanicalReduction>1</mechanicalReduction>
+            </actuator>
+        </transmission>
+    </xacro:macro>
+ 
+    <xacro:joint_trans joint_name="left_front_wheel_joint" />
+    <xacro:joint_trans joint_name="left_back_wheel_joint" />
+    <xacro:joint_trans joint_name="right_front_wheel_joint" />
+    <xacro:joint_trans joint_name="right_back_wheel_joint" />
+ 
+    <gazebo>
+        <plugin name="mecanum_controller" filename="libgazebo_ros_planar_move.so">
+            <commandTopic>cmd_vel</commandTopic>
+            <odometryTopic>odom</odometryTopic>
+            <odometryFrame>odom</odometryFrame>
+            <leftFrontJoint>left_front_wheel_joint</leftFrontJoint>
+            <rightFrontJoint>right_front_wheel_joint</rightFrontJoint>
+            <leftRearJoint>left_back_wheel_joint</leftRearJoint>
+            <rightRearJoint>right_back_wheel_joint</rightRearJoint>
+            <odometryRate>100</odometryRate>
+            <robotBaseFrame>base_footprint</robotBaseFrame>
+            <broadcastTF>1</broadcastTF>
+        </plugin>
+    </gazebo>
+ 
+</robot>
