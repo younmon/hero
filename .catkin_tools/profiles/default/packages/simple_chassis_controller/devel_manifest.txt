@@ -1,0 +1,6 @@
+simple_chassis_controller
+/home/youngmoney/rm/hero/devel/.private/simple_chassis_controller/cmake.lock /home/youngmoney/rm/hero/devel/./cmake.lock
+/home/youngmoney/rm/hero/devel/.private/simple_chassis_controller/lib/libsimple_chassis_controller.so /home/youngmoney/rm/hero/devel/lib/libsimple_chassis_controller.so
+/home/youngmoney/rm/hero/devel/.private/simple_chassis_controller/lib/pkgconfig/simple_chassis_controller.pc /home/youngmoney/rm/hero/devel/lib/pkgconfig/simple_chassis_controller.pc
+/home/youngmoney/rm/hero/devel/.private/simple_chassis_controller/share/simple_chassis_controller/cmake/simple_chassis_controllerConfig.cmake /home/youngmoney/rm/hero/devel/share/simple_chassis_controller/cmake/simple_chassis_controllerConfig.cmake
+/home/youngmoney/rm/hero/devel/.private/simple_chassis_controller/share/simple_chassis_controller/cmake/simple_chassis_controllerConfig-version.cmake /home/youngmoney/rm/hero/devel/share/simple_chassis_controller/cmake/simple_chassis_controllerConfig-version.cmake

@@ -1,0 +1,6 @@
+devel_space: /home/youngmoney/rm/hero/devel
+install: false
+install_space: /home/youngmoney/rm/hero/install
+profile: default
+source_space: /home/youngmoney/rm/hero/src
+workspace: /home/youngmoney/rm/hero

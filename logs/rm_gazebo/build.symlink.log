@@ -1,0 +1,4 @@
+Symlinking /home/youngmoney/rm/hero/devel/lib/librm_robot_hw_sim.so
+Symlinking /home/youngmoney/rm/hero/devel/lib/pkgconfig/rm_gazebo.pc
+Symlinking /home/youngmoney/rm/hero/devel/share/rm_gazebo/cmake/rm_gazeboConfig-version.cmake
+Symlinking /home/youngmoney/rm/hero/devel/share/rm_gazebo/cmake/rm_gazeboConfig.cmake

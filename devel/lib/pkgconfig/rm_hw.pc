@@ -1,0 +1,1 @@
+/home/youngmoney/rm/hero/devel/.private/rm_hw/lib/pkgconfig/rm_hw.pc

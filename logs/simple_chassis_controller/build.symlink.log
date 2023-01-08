@@ -1,0 +1,4 @@
+Symlinking /home/youngmoney/rm/hero/devel/lib/libsimple_chassis_controller.so
+Symlinking /home/youngmoney/rm/hero/devel/lib/pkgconfig/simple_chassis_controller.pc
+Symlinking /home/youngmoney/rm/hero/devel/share/simple_chassis_controller/cmake/simple_chassis_controllerConfig.cmake
+Symlinking /home/youngmoney/rm/hero/devel/share/simple_chassis_controller/cmake/simple_chassis_controllerConfig-version.cmake

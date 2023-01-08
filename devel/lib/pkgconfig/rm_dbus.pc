@@ -1,0 +1,1 @@
+/home/youngmoney/rm/hero/devel/.private/rm_dbus/lib/pkgconfig/rm_dbus.pc

@@ -1,0 +1,8 @@
+prefix=/home/youngmoney/rm/work4.0/src/cmake-build-debug/devel
+
+Name: rm_referee
+Description: Description of rm_referee
+Version: 0.1.16
+Cflags: -I/home/youngmoney/rm/work4.0/src/rm_referee/include
+Libs: -L${prefix}/lib 
+Requires: roscpp sensor_msgs roslint rm_msgs rm_common tf2_geometry_msgs std_msgs actionlib nav_msgs

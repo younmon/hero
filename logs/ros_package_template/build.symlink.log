@@ -1,0 +1,5 @@
+Symlinking /home/youngmoney/rm/hero/devel/lib/libros_package_template_core.so
+Symlinking /home/youngmoney/rm/hero/devel/lib/pkgconfig/ros_package_template.pc
+Symlinking /home/youngmoney/rm/hero/devel/lib/ros_package_template/ros_package_template
+Symlinking /home/youngmoney/rm/hero/devel/share/ros_package_template/cmake/ros_package_templateConfig-version.cmake
+Symlinking /home/youngmoney/rm/hero/devel/share/ros_package_template/cmake/ros_package_templateConfig.cmake

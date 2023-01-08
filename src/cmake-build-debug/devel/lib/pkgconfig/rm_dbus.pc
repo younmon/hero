@@ -1,0 +1,8 @@
+prefix=/home/youngmoney/rm/work4.0/src/cmake-build-debug/devel
+
+Name: rm_dbus
+Description: Description of rm_dbus
+Version: 0.1.16
+Cflags: -I/home/youngmoney/rm/work4.0/src/rm_dbus/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rm_common

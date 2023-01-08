@@ -1,0 +1,8 @@
+prefix=/home/youngmoney/rm/hero/devel/.private/rm_dbus
+
+Name: rm_dbus
+Description: Description of rm_dbus
+Version: 0.1.16
+Cflags: -I/home/youngmoney/rm/hero/src/rm_dbus/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rm_common

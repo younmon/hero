@@ -1,0 +1,1 @@
+/home/youngmoney/rm/hero/devel/.private/control_toolbox/share/roseus/ros/control_toolbox/manifest.l

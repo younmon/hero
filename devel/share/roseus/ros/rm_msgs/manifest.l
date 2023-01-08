@@ -1,0 +1,1 @@
+/home/youngmoney/rm/hero/devel/.private/rm_msgs/share/roseus/ros/rm_msgs/manifest.l

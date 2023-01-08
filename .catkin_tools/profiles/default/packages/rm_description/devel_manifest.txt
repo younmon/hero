@@ -1,0 +1,5 @@
+rm_description-assignment
+/home/youngmoney/rm/hero/devel/.private/rm_description/cmake.lock /home/youngmoney/rm/hero/devel/./cmake.lock
+/home/youngmoney/rm/hero/devel/.private/rm_description/lib/pkgconfig/rm_description.pc /home/youngmoney/rm/hero/devel/lib/pkgconfig/rm_description.pc
+/home/youngmoney/rm/hero/devel/.private/rm_description/share/rm_description/cmake/rm_descriptionConfig.cmake /home/youngmoney/rm/hero/devel/share/rm_description/cmake/rm_descriptionConfig.cmake
+/home/youngmoney/rm/hero/devel/.private/rm_description/share/rm_description/cmake/rm_descriptionConfig-version.cmake /home/youngmoney/rm/hero/devel/share/rm_description/cmake/rm_descriptionConfig-version.cmake

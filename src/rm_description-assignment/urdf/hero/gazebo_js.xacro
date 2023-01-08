@@ -1,0 +1,39 @@
+<model name='vehicle'>
+      ...
+
+      <joint name='left_wheel_joint0' type='revolute'>
+        ...
+      </joint>
+
+      <joint name='right_wheel_joint0' type='revolute'>
+        ...
+      </joint>
+
+      <joint name='left_wheel_joint1' type='revolute'>
+        ...
+      </joint>
+
+      <joint name='right_wheel_joint1' type='revolute'>
+        ...
+      </joint>
+
+      <plugin name='skid_steer_drive' filename='libgazebo_ros_skid_steer_drive.so'>
+        <updateRate>500</updateRate>
+
+        <leftFrontJoint>left_wheel_joint0</leftFrontJoint>
+        <rightFrontJoint>right_wheel_joint0</rightFrontJoint>
+        <leftRearJoint>left_wheel_joint1</leftRearJoint>
+        <rightRearJoint>right_wheel_joint1</rightRearJoint>
+
+        <wheelSeparation>1.25</wheelSeparation>
+        <wheelDiameter>0.3</wheelDiameter>
+
+        <torque>20</torque>
+
+        <commandTopic>cmd_demo</commandTopic>
+        <odometryTopic>odom_demo</odometryTopic>
+        <odometryFrame>odom_demo</odometryFrame>
+        <broadcastTF>true</broadcastTF>
+      </plugin>
+
+    </model>

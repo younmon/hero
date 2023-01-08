@@ -1,0 +1,6 @@
+rm_referee
+/home/youngmoney/rm/hero/devel/.private/rm_referee/cmake.lock /home/youngmoney/rm/hero/devel/./cmake.lock
+/home/youngmoney/rm/hero/devel/.private/rm_referee/lib/pkgconfig/rm_referee.pc /home/youngmoney/rm/hero/devel/lib/pkgconfig/rm_referee.pc
+/home/youngmoney/rm/hero/devel/.private/rm_referee/lib/rm_referee/rm_referee /home/youngmoney/rm/hero/devel/lib/rm_referee/rm_referee
+/home/youngmoney/rm/hero/devel/.private/rm_referee/share/rm_referee/cmake/rm_refereeConfig.cmake /home/youngmoney/rm/hero/devel/share/rm_referee/cmake/rm_refereeConfig.cmake
+/home/youngmoney/rm/hero/devel/.private/rm_referee/share/rm_referee/cmake/rm_refereeConfig-version.cmake /home/youngmoney/rm/hero/devel/share/rm_referee/cmake/rm_refereeConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/youngmoney/rm/hero/devel/.private/rm_msgs/share/rm_msgs/cmake/rm_msgs-msg-extras.cmake
