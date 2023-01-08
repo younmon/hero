@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00ef2cb1-acb5-4bf5-a8a4-7549b00a7dca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.catkin_tools/profiles/default/devel_collisions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.catkin_tools/profiles/default/devel_collisions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devel/.catkin" beforeDir="false" afterPath="$PROJECT_DIR$/devel/.catkin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/control_toolbox/build.make.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/control_toolbox/build.make.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/control_toolbox/build.symlink.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/control_toolbox/build.symlink.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/rm_common/build.make.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/rm_common/build.make.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/rm_common/build.symlink.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/rm_common/build.symlink.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/rm_dbus/build.make.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/rm_dbus/build.make.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/rm_dbus/build.symlink.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/rm_dbus/build.symlink.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/rm_description/build.symlink.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/rm_description/build.symlink.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/rm_gazebo/build.make.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/rm_gazebo/build.make.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/rm_gazebo/build.symlink.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/rm_gazebo/build.symlink.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/rm_hw/build.make.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/rm_hw/build.make.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/rm_hw/build.symlink.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/rm_hw/build.symlink.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/rm_msgs/build.make.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/rm_msgs/build.make.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/rm_msgs/build.symlink.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/rm_msgs/build.symlink.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/rm_referee/build.make.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/rm_referee/build.make.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/rm_referee/build.symlink.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/rm_referee/build.symlink.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/ros_package_template/build.make.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/ros_package_template/build.make.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/ros_package_template/build.symlink.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/ros_package_template/build.symlink.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/simple_chassis_controller/build.make.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/simple_chassis_controller/build.make.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/simple_chassis_controller/build.symlink.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/simple_chassis_controller/build.symlink.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/teleop_twist_keyboard/build.symlink.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/teleop_twist_keyboard/build.symlink.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rm_description-assignment/urdf/hero/chassis.urdf.xacro" beforeDir="false" afterPath="$PROJECT_DIR$/src/rm_description-assignment/urdf/hero/chassis.urdf.xacro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teleop_twist_keyboard" beforeDir="false" afterPath="$PROJECT_DIR$/src/teleop_twist_keyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teleop_twist_keyboard/CHANGELOG.rst" beforeDir="false" afterPath="$PROJECT_DIR$/src/teleop_twist_keyboard/CHANGELOG.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teleop_twist_keyboard/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/teleop_twist_keyboard/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teleop_twist_keyboard/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/teleop_twist_keyboard/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teleop_twist_keyboard/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/teleop_twist_keyboard/package.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2K2OLCdEVwKW5diMKIme9NQqoRG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00ef2cb1-acb5-4bf5-a8a4-7549b00a7dca" name="Default Changelist" comment="" />
+      <created>1673169152993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673169152993</updated>
+      <workItem from="1673169154176" duration="707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
